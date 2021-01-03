@@ -1,0 +1,175 @@
+﻿
+@{
+    ViewBag.Title = "DanhMucSach";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<section id="aa-catg-head-banner">
+    @*<img src="" width="1550" height="400" style="opacity:0.5" alt="fashion img">*@
+    <div class="aa-catg-head-banner-area">
+        <div class="container">
+            <div class="aa-catg-head-banner-content">
+                @*<h2>Fashion</h2>*@
+                <ol class="breadcrumb">
+                    <li><a href="@Url.Action("Index","Home")">Home</a></li>
+                    <li class="active">@ViewBag.br.TenLoai</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- / catg header banner section -->
+<!-- product category -->
+<section id="aa-product-category">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-9 col-sm-8 col-md-push-3">
+                <div class="aa-product-catg-content">
+                    <div class="aa-product-catg-head">
+                        @*<div class="aa-product-catg-head-left">
+                                <form action="" class="aa-sort-form">
+                                    <label for="">Sort by</label>
+                                    <select name="">
+                                        <option value="1" selected="Default">Default</option>
+                                        <option value="2">Name</option>
+                                        <option value="3">Price</option>
+                                    </select>
+                                </form>
+
+                            </div>*@
+                        <div class="aa-product-catg-body">
+                            <ul class="aa-product-catg">
+                                <!-- start single product item -->
+                                @foreach (var item in ViewBag.ds)
+                                {
+                                    if (item.SoLuong <= 0)
+                                    {
+                                        <li class ="col-md-4 col-sm-6 col-xs-12 margin_bottom_30_all" style="display:none">
+                                            <figure>
+                                                <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh " alt="@item.HinhAnh"></a>
+                                                <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new {MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                <figcaption>
+                                                    <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                    <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                    <p class="aa-product-descrip">@item.Description</p>
+                                                </figcaption>
+                                            </figure>
+                                            <!-- product badge -->
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li>
+                                                <figure>
+                                                    <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh " alt="@item.HinhAnh"></a>
+                                                    <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new {MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                    <figcaption>
+                                                        <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                        <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        <p class="aa-product-descrip">@item.Description</p>
+                                                    </figcaption>
+                                                </figure>
+                                                <!-- product badge -->
+                                            </li>
+                                        }
+
+                                    }
+                            </ul>
+
+                        </div>
+                        <div class="aa-product-catg-pagination">
+                            <nav>
+                                <ul class="pagination">
+                                    <li>
+                                        @if ((ViewBag.pageNumber - 1) != 0)
+                                        {
+                                            <a href="@Url.Action("DanhMucSach", "Home", new { page = ViewBag.pageNumber - 1, maLoai = ViewBag.maLoai, min = ViewBag.min, max = ViewBag.max})" aria-label="Previous">
+                                                <span aria-hidden="true">&laquo;</span>
+                                            </a>
+                                        }
+                                        else
+                                        {
+                                            <a aria-label="Previous">
+                                                <span aria-hidden="true">&laquo;</span>
+                                            </a>
+                                        }
+
+                                    </li>
+                                    @for (int i = 1; i < ViewBag.pc + 1; i++)
+                                    {
+                                        <li><a href="@Url.Action("DanhMucSach", "Home", new { page = i, maLoai = ViewBag.maLoai, min = ViewBag.min, max = ViewBag.max})" title="@i">@i</a></li>
+                                    }
+                                    <li>
+                                        @if ((ViewBag.pageNumber + 1) < (ViewBag.pc + 1))
+                                        {
+                                            <a href="@Url.Action("DanhMucSach", "Home", new { page = ViewBag.pageNumber + 1 , maLoai = ViewBag.maLoai, min = ViewBag.min, max = ViewBag.max})" aria-label="Next">
+                                                <span aria-hidden="true">&raquo;</span>
+                                            </a>
+                                        }
+                                        else
+                                        {
+                                            <a aria-label="Next">
+                                                <span aria-hidden="true">&raquo;</span>
+                                            </a>
+                                        }
+
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-4 col-md-pull-9">
+                    <aside class="aa-sidebar">
+                        <!-- single sidebar -->
+                        <div class="aa-sidebar-widget">
+
+                        </div>
+                        <!-- single sidebar -->
+
+                    </aside>
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-4 col-md-pull-9">
+                <aside class="aa-sidebar">
+                    <div class="aa-sidebar-widget">
+                        <h3>Chọn thể loại</h3>
+                        <ul class="aa-catg-nav">
+                            <li><a href="@Url.Action("DanhMucSach","Home", new { maLoai = 1 })">Kỹ Năng</a></li>
+                            <li><a href="@Url.Action("DanhMucSach","Home", new { maLoai = 2 })">Thiếu Nhi</a></li>
+                            <li><a href="@Url.Action("DanhMucSach","Home", new { maLoai = 3 })">Văn Học</a></li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li><a href="@Url.Action("DanhMucSach","Home", new { maLoai = 4 })">Coupon</a></li>
+                            }
+
+                        </ul>
+                    </div>
+
+                    <div class="aa-sidebar-widget">
+                        <h3>Chọn theo khoảng giá</h3>
+                        <ul class="aa-catg-nav">
+                            <li><a href="@Url.Action("DanhMucSach", "Home", new { min = 10000, max = 50000, maLoai = ViewBag.maLoai})">10.000 - 50.000 VNĐ</a></li>
+                            <li><a href="@Url.Action("DanhMucSach", "Home", new { min = 50000, max = 100000, maLoai = ViewBag.maLoai})">50.000 - 100.000 VNĐ</a></li>
+                            <li><a href="@Url.Action("DanhMucSach", "Home", new { min = 100000, max = 150000, maLoai = ViewBag.maLoai})">100.000 - 150.000 VNĐ</a></li>
+                            <li><a href="@Url.Action("DanhMucSach", "Home", new { min = 150000, max = 200000, maLoai = ViewBag.maLoai})">150.000 - 200.000 VNĐ</a></li>
+                            <li><a href="@Url.Action("DanhMucSach", "Home", new { min = 200000, max = 5000000, maLoai = ViewBag.maLoai})">> 200.000 VNĐ</a></li>
+                        </ul>
+
+                    </div>
+
+                </aside>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@*@Html.PagedListPager((IPagedList)ViewBag.ds, sotrang => Url.Action("Bitis", new { page = sotrang}))*@
+
+

@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "ChiTietSach";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<section id="aa-product-details">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aa-product-details-area">
+                    <div class="aa-product-details-content">
+                        <div class="row">
+                            <!-- Modal view slider -->
+                            <div class="col-md-5 col-sm-5 col-xs-12">
+                                <div class="aa-product-view-slider">
+                                    <div id="demo-1" class="simpleLens-gallery-container">
+                                        <div class="simpleLens-container">
+                                            <div class="simpleLens-big-image-container"><a data-lens-image="@Url.Content("~/Image")/@ViewBag.pd.HinhAnh" class="simpleLens-lens-image"><img src="@Url.Content("~/Image")/@ViewBag.pd.HinhAnh" class="simpleLens-big-image"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal view content -->
+                            <div class="col-md-7 col-sm-7 col-xs-12">
+                                <div class="aa-product-view-content">
+                                    <h3>@ViewBag.pd.TenSach</h3>
+                                    <div class="aa-price-block">
+                                        <p class="aa-product-avilability">Tác Giả: <span>@ViewBag.pd.TacGia</span></p>
+                                        <p class="aa-product-avilability">NXB: <span>@ViewBag.pd.NXB</span></p>
+                                        <span class="aa-product-view-price">@ViewBag.pd.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                        <p class="aa-product-avilability">Mô tả: <span>@ViewBag.pd.Description</span></p>
+                                        <p class="aa-product-avilability">Số lượng: <span>@ViewBag.pd.SoLuong</span></p>
+
+                                    </div>
+
+                                    <div class="aa-prod-quantity">
+
+                                        <p class="aa-prod-category">
+                                            Thể loại: <a href="#">@ViewBag.br.TenLoai</a>
+                                        </p>
+                                        <p class="aa-prod-category">
+                                            NCC: <a href="#">PNO</a>
+                                        </p>
+                                    </div>
+                                    <div class="aa-prod-view-bottom">
+                                        <a class="aa-add-to-cart-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = Url.RequestContext.RouteData.Values["id"] })">Add To Cart</a>
+                                        <a href="@Url.Action("Index", "Home")" role="button" class="btn btn-default">VỀ TRANG CHỦ</a>
+                                    </div>
+                                    <br />
+                                    <br />
+                                    <br />
+                                </div>
+                            </div>
+                            <h3>Bình luận</h3>
+                            <div>
+                                @foreach (var item in ViewBag.comments)
+                                {
+                                    <h5>@User.Identity.Name</h5>
+                                    <p>@item.Date</p>
+                                    <p>@item.Review</p>
+                                }
+                            </div>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <div>
+                                    <form action="@Url.Action("Comment","Home", new {sanpham = ViewBag.pd.MaSach })" method="post">
+                                        <hr />
+                                        <p>Bình luận với @User.Identity.Name</p>
+                                        <textarea style="width:500px" name="Review"></textarea>
+                                        <p><button type="submit">Gửi</button></p>
+                                    </form>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

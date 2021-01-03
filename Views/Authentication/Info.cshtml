@@ -1,0 +1,194 @@
+﻿@model BookStore.Models.User
+@{
+    ViewBag.Title = "Info";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+<!-- inner page banner -->
+<div id="inner_banner" class="section inner_banner_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <div class="title-holder">
+                        <div class="title-holder-cell text-left">
+                            <h1 class="page-title">Thông tin người dùng</h1>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end inner page banner -->
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="side_bar_blog col-lg-3">
+            <h4>Chức năng</h4>
+            <div class="categary">
+                <ul>
+                    <li><a href="@Url.Action("DonHang","ThanhToan")"><i class="fa fa-angle-right"></i> Đơn hàng</a></li>
+                    <li><a href="@Url.Action("Index","GioHang")"><i class="fa fa-angle-right"></i> Giỏ hàng</a></li>
+                    <li>
+                        <form action="@Url.Action("Logout","Authentication")" id="logout">
+                            <a href="#" onclick="LogOut()"><i class="fa fa-angle-right"></i> Logout</a>
+                        </form>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-lg-9 float-left">
+            <table class="table" style="margin-top:50px">
+
+                <tr>
+                    <th>Họ Tên:</th>
+                    <td>
+                        <form action="@Url.Action("EditHoTen","Authentication", new { id = Model.IDUser})">
+                            <p style="font-weight:bold"> @Model.HoTen</p>
+
+                            <ul id="fullname">
+
+                                <li>Họ Tên</li>
+                                <li><input type="text" name="HoTen" placeholder="Type your last name..." value="@Model.HoTen" /></li>
+                            </ul>
+                            <button type="submit">Sửa</button>
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Tuổi:</th>
+                    <td>
+                        <form action="@Url.Action("EditAge","Authentication", new { id = Model.IDUser})">
+                            <p style="font-weight:bold"> @Model.Age</p>
+
+                            <ul id="fullname">
+
+                                <li>Tuổi</li>
+                                <li><input type="text" name="Age" placeholder="Type your last name..." value="@Model.Age" /></li>
+                            </ul>
+                            <button type="submit">Sửa</button>
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Điểm tích lũy:</th>
+                    <td>
+                        <form>
+                            <p style="font-weight:bold"> @Model.DiemTichLuy</p>
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Thẻ:</th>
+                    <td>
+                        <form>
+                            <p style="font-weight:bold"> @Model.Rank.TenRank</p>
+                            @if (Model.Ranking == 2)
+                            {
+                                <p style="font-weight:bold"> Được giảm 5%</p>
+                            }
+                            @if (Model.Ranking == 3)
+                            {
+                                <p style="font-weight:bold"> Được giảm 10%</p>
+                            }
+                            @if (Model.Ranking == 4)
+                            {
+                                <p style="font-weight:bold"> Được giảm 15%</p>
+                            }
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                <tr>
+                    <th>Email:</th>
+                    <td>
+                        <form action="@Url.Action("EditEmail","Authentication", new { id = Model.IDUser})">
+                            <p style="font-weight:bold">@Model.Email</p>
+
+                            <ul id="mail">
+                                <li>Email</li>
+                                <li><input type="text" name="Email" placeholder="Type your email..." value="@Model.Email" /></li>
+                                <li style="color:red">@ViewBag.errorEmail</li>
+                            </ul>
+                            <button type="submit">Sửa</button>
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Password:</th>
+                    <td>
+                        <form action="@Url.Action("EditPass","Authentication", new { id = Model.IDUser})">
+                            <ul id="PW">
+                                <li>Password hiện tại</li>
+                                <li><input type="password" name="Password" /></li>
+                                <li style="color:red">@ViewBag.error</li>
+                                <li>Password mới</li>
+                                <li><input type="password" name="PasswordNew" /></li>
+
+                            </ul>
+                            <button type="submit">Sửa</button>
+                        </form>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Script -->
+<script>
+    function ShowHidePassWord() {
+        var x = document.getElementById("PW");
+        if (x.style.display == "none") {
+            x.style.display = "block";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+    function ShowHideFullName() {
+        var x = document.getElementById("fullname");
+        if (x.style.display == "none") {
+            x.style.display = "block";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+    function ShowHideAddress() {
+        var x = document.getElementById("address");
+        if (x.style.display == "none") {
+            x.style.display = "block";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+    function ShowHideAge() {
+        var x = document.getElementById("age");
+        if (x.style.display == "none") {
+            x.style.display = "block";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+    function ShowHideMail() {
+        var x = document.getElementById("mail");
+        if (x.style.display == "none") {
+            x.style.display = "block";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+</script>
+<!-- End script -->
+<!-- Script -->
+<script>
+    function LogOut() {
+        document.getElementById("logout").submit();
+    }
+</script>
+<!-- End script -->

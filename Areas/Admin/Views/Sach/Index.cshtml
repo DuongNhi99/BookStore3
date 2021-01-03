@@ -1,0 +1,93 @@
+﻿@model IEnumerable<BookStore.Models.Sach>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Danh sách Sản phẩm</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Loai.TenLoai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NhaCungCap.TenNCC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TacGia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NXB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HinhAnh)
+        </th>
+        
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Loai.TenLoai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NhaCungCap.TenNCC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TacGia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NXB)
+        </td>
+        <td>
+            @item.Gia.ToString("#,##0").Replace(',', '.') VNĐ
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoLuong)
+        </td>
+        <td>
+            <img src="~/Image/@item.HinhAnh" width="100" height="100" />
+        </td>
+        
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.MaSach }) |
+            @Html.ActionLink("Details", "Details", new { id = item.MaSach }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.MaSach })
+        </td>
+    </tr>
+    }
+    <tr>
+
+        @for (int i = 0; i < ViewBag.count; i++)
+        {
+            <a href="@Url.Action("Index", "Sach", new { begin=i})" class="btn btn-default">@i</a>
+        }
+
+    </tr>
+
+</table>

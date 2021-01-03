@@ -1,0 +1,890 @@
+D:\E-comerce\BookStore\BookStore\bin\BookStore.dll.config
+D:\E-comerce\BookStore\BookStore\bin\BookStore.dll
+D:\E-comerce\BookStore\BookStore\bin\BookStore.pdb
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csc.exe
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csi.exe
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\E-comerce\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\E-comerce\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\E-comerce\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\E-comerce\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\E-comerce\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\E-comerce\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\E-comerce\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\E-comerce\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\E-comerce\BookStore\BookStore\bin\EntityFramework.dll
+D:\E-comerce\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\E-comerce\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\E-comerce\BookStore\BookStore\bin\Owin.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\E-comerce\BookStore\BookStore\bin\WebGrease.dll
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\E-comerce\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\E-comerce\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\E-comerce\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\E-comerce\BookStore\BookStore\bin\EntityFramework.xml
+D:\E-comerce\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\E-comerce\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.Migrations.InitialCreate.resources
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\E-comerce\BookStore\BookStore\obj\Debug\BookStore.Migrations.Intial.resources
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\BookStore.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Owin.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.Migrations.InitData.resources
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata2.resources
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\ThanhDat\Desktop\icon\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Test\BookStore2\BookStore\BookStore\bin\BookStore.dll.config
+D:\Test\BookStore2\BookStore\BookStore\bin\BookStore.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\BookStore.pdb
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csc.exe
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csi.exe
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\Test\BookStore2\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Test\BookStore2\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\EntityFramework.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\Owin.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\PagedList.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\WebGrease.dll
+D:\Test\BookStore2\BookStore\BookStore\bin\PagedList.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\Test\BookStore2\BookStore\BookStore\bin\EntityFramework.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Test\BookStore2\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.Initial.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.update.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.editPass.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.delconPass.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.editGH.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.editDb.resources
+D:\Test\BookStore2\BookStore\BookStore\obj\Debug\BookStore.Migrations.editHD.resources
+D:\Folder\BookStore5\BookStore\BookStore\bin\BookStore.dll.config
+D:\Folder\BookStore5\BookStore\BookStore\bin\BookStore.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\BookStore.pdb
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\Folder\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Folder\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\EntityFramework.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\Owin.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\PagedList.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\PayPal.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\WebGrease.dll
+D:\Folder\BookStore5\BookStore\BookStore\bin\PagedList.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\PayPal.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\Folder\BookStore5\BookStore\BookStore\bin\EntityFramework.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Folder\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.Initial.resources
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.editUser.resources
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.editCus.resources
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.editDb.resources
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Folder\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\BookStore.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\PagedList.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\PayPal.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\PagedList.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\PayPal.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata1.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata2.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata4.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata9.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata300.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll.config
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.pdb
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Owin.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\WebGrease.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.InitialCreate.resources
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\TMĐT\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.Init.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Owin.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.Migrations.initdata1.resources
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\tua64\OneDrive\Hình ảnh\Ảnh chụp màn hình\Desktop\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll.config
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\BookStore.pdb
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Owin.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\WebGrease.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\PagedList.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\PayPal.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\TMĐT\BookStore2\BookStore5\BookStore5\BookStore\BookStore\obj\Debug\BookStore.pdb

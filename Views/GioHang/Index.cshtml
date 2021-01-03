@@ -1,0 +1,102 @@
+﻿@model List<BookStore.Models.GioHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<section id="aa-catg-head-banner">
+    <img src="~/img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
+    <div class="aa-catg-head-banner-area">
+        <div class="container">
+            <div class="aa-catg-head-banner-content">
+                <h2>Cart Page</h2>
+                <ol class="breadcrumb">
+                    <li><a href="@Url.Action("Index","Home")">Home</a></li>
+                    <li class="active">Cart</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="cart-view">
+    <br />
+    <br />
+    <br />
+    <div class="container">
+        @if (Model == null || Model.Count == 0)
+        {
+            <div class="spec ">
+                <div class="ser-t">
+                    <b></b>
+                    <span><i></i></span>
+                    <b class="line"></b>
+                </div>
+            </div>
+            <p class="text-info text-center" style="font-size:25px;">
+                Giỏ hàng của bạn trống!
+            </p>
+            <a href="@Url.Action("Index", "Home")" role="button" class="btn btn-default">Tiếp tục mua hàng</a>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+        }
+        else
+        {
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="table-responsive">
+                        <table class=" table table-bordered ">
+                            <tr>
+                                <th>Ảnh</th>
+                                <th>Tên Sách</th>
+                                <th>Số Lượng</th>
+
+                                <th>Giá</th>
+                                <th>Tổng</th>
+                            </tr>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="text-center"><img src="~/Image/@item.HinhAnh" width="70" height="60" /></td>
+                                    <td><a target="_blank" href="@Url.Action("ChiTietSach","Home", new { id = item.MaSach })">@item.TenSach</a></td>
+                                    <td>
+                                        <form action="@Url.Action("SuaSoLuong","GioHang")" method="get">
+                                            <input type="hidden" name="MaSach" value="@item.MaSach" />
+                                            <input type="number" min="1" step="1" name="soluongmoi" value="@item.SoLuong" />
+                                            <button type="submit" class="btn btn-primary btn-sm">Cập nhật</button>
+                                        </form>
+                                    </td>
+                                    <td>@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</td>
+                                    <td>@item.TongTien.ToString("#,##0").Replace(',', '.') VNĐ</td>
+                                    <td><a href="@Url.Action("XoaKhoiGio", new { MaSach = item.MaSach})" onclick="return confirm('Bạn có chắc muốn xóa sản phẩm này?');" class="btn btn-danger btn-sm">Xóa</a></td>
+                                </tr>
+
+                            }
+                            <tr>
+                                <td></td>
+                                <td class="text-right">Tổng số lượng</td>
+                                <td>@Model.Sum(m => m.SoLuong)</td>
+                                <td class="text-right">Tổng tiền</td>
+                                <td>@Model.Sum(m => m.TongTien).ToString("#,##0").Replace(',', '.') VNĐ</td>
+                                <td>
+                                    <a href="@Url.Action("Index", "ThanhToan")" role="button" class="btn btn-success">Thanh toán</a>
+                                    <a href="@Url.Action("Index", "Home")" role="button" class="btn btn-success">Quay lại</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <br />
+    <br />
+    <br />
+</section>
+
+

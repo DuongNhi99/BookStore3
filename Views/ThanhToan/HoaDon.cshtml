@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = "HoaDon";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+@{
+    BookStore.Models.CSDLContext db = new BookStore.Models.CSDLContext();
+    var cus = db.Users.Find(Session["Phone"]);
+}
+<div class="container">
+    <div class="spec ">
+        <h3><a href="#" style="text-decoration:none;">Hoá đơn @Session["MHD"]</a></h3>
+        <div class="ser-t">
+            <b></b>
+            <span><i></i></span>
+            <b class="line"></b>
+        </div>
+    </div>
+   
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    Họ và tên khách: @ViewBag.ht
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <br />
+                        Mã hóa đơn:
+                        Số điện thoại: @ViewBag.sd<br />
+                        Email: @User.Identity.Name<br />
+                        Địa chỉ:@ViewBag.dc<br />
+                        Ghi chú: @ViewBag.km<br />
+                        Tổng tiền:@ViewBag.Tong.ToString("#,##0").Replace(',', '.') VNĐ<br />
+                        Tiền phải trả:@((ViewBag.Tong + 20000).ToString("#,##0").Replace(',', '.')) VNĐ
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="panel panel-danger">
+                <div class="panel-heading">
+                    BOOKSTORE SHIPPER
+                </div>
+                <div class="panel-body">
+                    <p>
+                        Phí vận chuyển: 20.000 VNĐ
+                        <br />
+                        Số điện thoại: 0325470707<br />
+
+                        Email: bookstore@gmail.com<br />
+                        Địa chỉ: 155, Sư Vạn Hạnh nd, Phường 13, Quận 10
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Sản phẩm của bạn đã order thành công
+                bạn hay vui lòng chờ nhân viên xác nhận !!
+            </div>
+            <div class="panel-body">
+                @*<table class="table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Hình ảnh</th>
+                                <th>Tên sản phẩm</th>
+                                <th>Số lượng</th>
+                                <th>Thành tiền</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                int i = 0;
+                                int tong = 0;
+                            }
+                            @foreach (var item in db.DonHangs.SqlQuery("Select * from ChiTietDonHang Where MaDH='" + Session["MHD"] + "'"))
+                            {
+                                i++;
+                                <tr>
+                                    <td>@i</td>
+                                    <td><img src="~/Image/@item.Sach.HinhAnh" width="50" height="50"></td>
+                                    <td>@item.Product.ProductName</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@Int32.Parse(item.ordtsTotal).ToString("#,##0").Replace(',', '.') VNĐ</td>
+                                </tr>
+                                tong += Int32.Parse(item.ordtsTotal);
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>Tổng tiền cần thanh toán :</td>
+                                <td>@tong.ToString("#,##0").Replace(',', '.') VNĐ</td>
+                            </tr>
+                        </tfoot>
+                    </table>*@
+                <td><a href="@Url.Action("Index", "Home")" role="button" class="btn btn-success">Tiếp Tục Mua</a></td>
+            </div>
+        </div>
+    </div>
+</div>

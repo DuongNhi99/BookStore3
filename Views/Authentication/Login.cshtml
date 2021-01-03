@@ -1,0 +1,68 @@
+﻿@model BookStore.Models.User
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+
+@*<form class="form_contant" action="@Url.Action("Login","Authentication")" method="post">
+    <fieldset class="row">
+        <div class="field col-lg-12 col-md-6 col-sm-12 col-xs-12">
+            <input class="field_custom" placeholder="Email *" type="text" name="Email" required>
+        </div>
+        <div class="field col-lg-12 col-md-6 col-sm-12 col-xs-12">
+            <input class="field_custom" placeholder="Password *" type="password" name="Password" required>
+        </div>
+        <div class="center">
+            <button class="btn main_bt" type="submit">SUBMIT NOW</button>
+        </div>
+        <br />
+        <div class="center">
+            <a href="@Url.Action("Register","Authentication")">Register...</a>
+        </div>
+    </fieldset>
+</form>*@
+<section id="aa-myaccount">
+    <div class="container">
+        <div class="row">
+
+            <div class="aa-myaccount-area">
+                <div class="row">
+                    <div class="container">
+                        <div class="form-horizontal">
+                            <div class="col-md-offset-4 col-md-4 ">
+                                <h4>Login</h4>
+                                @using (Html.BeginForm("Login", "Authentication", FormMethod.Post))
+                                {
+                                    @Html.AntiForgeryToken()
+
+                                    <div class="form-group  form-control-user ">
+
+                                        @Html.LabelFor(m => m.Email)
+                                        @Html.TextBoxFor(m => m.Email, new { style = "width:100%" })
+                                        @Html.ValidationMessageFor(m => m.Email)
+                                    </div>
+
+                                    <div class="form-group  form-control-user ">
+                                        @Html.LabelFor(m => m.Password)
+                                        @Html.PasswordFor(m => m.Password, new { style = "width:100%" })
+                                        @Html.ValidationMessageFor(m => m.Password)
+                                    </div>
+                                    <p>@ViewBag.loi</p>
+                                    <input class="btn btn-info" type="submit" value="Login" />
+
+                                    <a class="btn btn-info" href="@Url.Action("Register","Authentication")">Register</a>
+                                }
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+

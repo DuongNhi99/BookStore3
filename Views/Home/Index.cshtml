@@ -1,0 +1,176 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<!-- Start slider -->
+<section id="aa-slider">
+    <div class="aa-slider-area">
+        <div id="sequence" class="seq">
+            <div class="seq-screen">
+                <ul class="seq-canvas">
+                    <!-- single slide item -->
+                    @foreach (var item in ViewBag.slider)
+                    {
+                        <li>
+                            <div class="seq-model">
+                                <img data-seq src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh" />
+                            </div>
+                            <div class="seq-title">
+                                <span data-seq>Save Up to 50% Off</span>
+                                <h2 data-seq>Sách Hot</h2>
+                                <p data-seq>Sự hài lòng của quý khách là niềm vinh hạnh của chúng tôi.</p>
+                                @*<a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>*@
+                            </div>
+                        </li>
+                    }
+                    <!-- single slide item -->
+                </ul>
+            </div>
+            <!-- slider navigation btn -->
+            <fieldset class="seq-nav" aria-controls="sequence" aria-label="Slider buttons">
+                <a type="button" class="seq-prev" aria-label="Previous"><span class="fa fa-angle-left"></span></a>
+                <a type="button" class="seq-next" aria-label="Next"><span class="fa fa-angle-right"></span></a>
+            </fieldset>
+        </div>
+    </div>
+</section>
+<!-- / slider -->
+<!-- Start Promo section -->
+<!-- / Promo section -->
+<!-- Products section -->
+<section id="aa-product">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="aa-product-area">
+                        <div class="aa-product-inner">
+                            <!-- start prduct navigation -->
+                            <ul class="nav nav-tabs aa-products-tab">
+                                <li class="active"><a href="#thieunhi" data-toggle="tab">Thiếu Nhi</a></li>
+                                <li><a href="#kynang" data-toggle="tab">Kỹ Năng</a></li>
+                                <li><a href="#vanhoc" data-toggle="tab">Văn Học</a></li>
+
+                            </ul>
+                            <!-- Tab panes -->
+                            <div class="tab-content">
+                                <!-- Start men product category -->
+                                <div class="tab-pane fade in active" id="thieunhi">
+                                    <ul class="aa-product-catg">
+                                        <!-- start single product item -->
+                                        @foreach (var item in ViewBag.thieunhi)
+                                        {
+                                            if (item.SoLuong <= 0)
+                                            {
+                                                <li class="col-md-4 col-sm-6 col-xs-12 margin_bottom_30_all" style="display:none">
+
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+                                            else
+                                            {
+                                                <li>
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+
+                                        }
+                                    </ul>
+                                </div>
+                                <!-- / men product category -->
+                                <!-- start women product category -->
+                                <div class="tab-pane fade" id="kynang">
+                                    <ul class="aa-product-catg">
+                                        <!-- start single product item -->
+                                        @foreach (var item in ViewBag.kynang)
+                                        {
+                                            if (item.SoLuong <= 0)
+                                            {
+                                                <li class="col-md-4 col-sm-6 col-xs-12 margin_bottom_30_all" style="display:none">
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+                                            else
+                                            {
+                                                <li>
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+                                        }
+                                    </ul>
+                                </div>
+                                <!-- / women product category -->
+                                <!-- start sports product category -->
+                                <div class="tab-pane fade" id="vanhoc">
+                                    <ul class="aa-product-catg">
+                                        <!-- start single product item -->
+                                        @foreach (var item in ViewBag.vanhoc)
+                                        {
+                                            if (item.SoLuong <= 0)
+                                            {
+                                                <li class="col-md-4 col-sm-6 col-xs-12 margin_bottom_30_all" style="display:none">
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+                                            else
+                                            {
+                                                <li>
+                                                    <figure>
+                                                        <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                        <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { MaSach = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                        <figcaption>
+                                                            <h4 class="aa-product-title"><a href="#">@item.TenSach</a></h4>
+                                                            <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                        </figcaption>
+                                                    </figure>
+                                                </li>
+                                            }
+                                        }
+                                        </ul>
+                                    </div>
+                                    <!-- / sports product category -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

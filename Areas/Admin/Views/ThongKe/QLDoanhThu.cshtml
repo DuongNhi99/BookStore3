@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewBag.Title = "QLDoanhThu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div id="inner_banner" class="section inner_banner_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <div class="title-holder">
+                        <div class="title-holder-cell text-left">
+                            <h1 class="page-title">Quản lý thống kê </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end inner page banner -->
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="col-lg-9 float-left" style="margin-top:30px">
+            <form action="@Url.Action("QLDoanhThu","ThongKe")">
+                <label>Ngày</label>
+                <select name="Day">
+                    @foreach (var day in ViewBag.day)
+                    {
+                        <option value="@day">@day</option>
+                    }
+                </select>
+                <label>Tháng</label>
+                <select name="Month">
+                    @foreach (var month in ViewBag.month)
+                    {
+                        <option value="@month">@month</option>
+                    }
+                </select>
+                <label>Năm</label>
+                <select name="Year">
+                    @foreach (var year in ViewBag.year)
+                    {
+                        <option value="@year">@year</option>
+                    }
+                </select>
+                <input type="submit" value="Duyệt" class="btn btn-default" />
+            </form>
+
+            <div class="section padding_layout_1 Shopping_cart_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-9 col-md-9">
+                            @if (ViewBag.check == 0)
+                            {
+                                <h1 style="text-align:center">@ViewBag.error</h1>
+                            }
+                            else
+                            {
+                                <h2>Tổng trong ngày: @ViewData["orderDetail"]</h2>
+                                <table class="table">
+                                    <tr>
+                                        <td>Mã ĐH</td>
+                                        <td>Ngày đặt</td>
+                                        <td>SDT</td>
+                                        <td>Tổng đơn</td>
+
+                                    </tr>
+
+                                    @foreach (var item in ViewData["order"] as IEnumerable<BookStore.Models.DonHang>)
+                                    {
+                                <tr>
+                                    <td class="col-sm-1 col-md-1"><p class="price_table">@item.MaDH</p></td>
+                                    <td class="col-sm-1 col-md-1"><p class="price_table">@item.NgayDat</p></td>
+                                    <td class="col-sm-1 col-md-1"><p class="price_table">@item.SDT</p></td>
+                                    <td class="col-sm-1 col-md-1"><p class="price_table">@item.TongTien</p></td>
+
+                                    <td class="col-sm-1 col-md-1"><a href="@Url.Action("ChiTietDon", "ThongKe", new { area = "Admin", id=item.MaDH })"><p class="price_table">Chi Tiết</p></a></td>
+                                </tr>
+                                    }
+                                </table>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

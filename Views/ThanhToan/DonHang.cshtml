@@ -1,0 +1,69 @@
+﻿@model IEnumerable<BookStore.Models.DonHang>
+
+@{
+    ViewBag.Title = "DonHang";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+
+
+<section id="cart-view">
+    <h3 style="margin-left:200px">Lịch sử mua hàng</h3>
+    <br />
+
+    <div class="container">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.User.HoTen)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SDT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NgayDat)
+                </th>            
+                <th>
+                    @Html.DisplayNameFor(model => model.TongTien)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TinhTrangDonHang)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User.HoTen)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SDT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayDat)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TongTien)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TinhTrangDonHang)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Chi Tiết", "ChiTietDonHang", new { id = item.MaDH }) |
+                    </td>
+                    @if (item.TinhTrangDonHang == "Đang duyệt")
+                    {
+                        <td>
+                            @Html.ActionLink("Hủy", "Huy", new { id = item.MaDH })
+                        </td>
+                    }
+
+                </tr>
+            }
+
+        </table>
+    </div>
+</section>

@@ -1,0 +1,97 @@
+﻿
+@model IEnumerable<BookStore.Models.Sach>
+@{
+    ViewBag.Title = "TimKiemTheoTen";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<section id="aa-product">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="aa-product-area">
+                        <div class="aa-product-inner">
+                            <div class="tab-content">
+                                <!-- Start men product category -->
+                                <div class="tab-pane fade in active">
+                                    <ul class="aa-product-catg">
+                                        <!-- start single product item -->
+                                        <br />
+                                        <br />
+
+                                        @foreach (var item in Model)
+                                        {
+                                            <li>
+                                                <figure>
+                                                    <a class="aa-product-img" href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })"><img height="300" width="250" src="@Url.Content("~/Image")/@item.HinhAnh" alt="@item.HinhAnh"></a>
+                                                    <a class="aa-add-card-btn" href="@Url.Action("ThemVaoGio", "GioHang", new { ProductID = item.MaSach })"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                                                    <figcaption>
+                                                        <h4 class="aa-product-title"><a href="@Url.Action("ChiTietSach", "Home", new { id = item.MaSach })">@item.TenSach</a></h4>
+                                                        <span class="aa-product-price">@item.Gia.ToString("#,##0").Replace(',', '.') VNĐ</span>
+                                                    </figcaption>
+                                                </figure>
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <section id="aa-product-category">
+                            <div class="container">
+                                <div class="aa-product-catg-content">
+                                    <div class="aa-product-catg-pagination">
+                                        <nav>
+                                            <ul class="pagination">
+                                                <li>
+                                                    @if ((ViewBag.pageNumber - 1) != 0)
+                                                    {
+                                                        <a href="@Url.Action("TimKiemTheoTen", "Home", new { page = ViewBag.pageNumber - 1, name = ViewBag.name })" aria-label="Previous">
+                                                            <span aria-hidden="true">&laquo;</span>
+                                                        </a>
+                                                    }
+                                                    else
+                                                    {
+                                                        <a aria-label="Previous">
+                                                            <span aria-hidden="true">&laquo;</span>
+                                                        </a>
+                                                    }
+
+                                                </li>
+                                                @for (int i = 1; i < ViewBag.pc + 1; i++)
+                                                {
+                                                    <li><a href="@Url.Action("TimKiemTheoTen", "Home", new { page = i, name = ViewBag.name })" title="@i">@i</a></li>
+                                                }
+                                                <li>
+                                                    @if ((ViewBag.pageNumber + 1) < (ViewBag.pc + 1))
+                                                    {
+                                                        <a href="@Url.Action("TimKiemTheoTen", "Home", new { page = ViewBag.pageNumber + 1 , name = ViewBag.name})" aria-label="Next">
+                                                            <span aria-hidden="true">&raquo;</span>
+                                                        </a>
+                                                    }
+                                                    else
+                                                    {
+                                                        <a aria-label="Next">
+                                                            <span aria-hidden="true">&raquo;</span>
+                                                        </a>
+                                                    }
+
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

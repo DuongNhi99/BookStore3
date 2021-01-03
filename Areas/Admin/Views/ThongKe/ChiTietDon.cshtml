@@ -1,0 +1,87 @@
+﻿@model IEnumerable<BookStore.Models.ChiTietDonHang>
+@{
+    ViewBag.Title = "ChiTietDon";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<!-- inner page banner -->
+<div id="inner_banner" class="section inner_banner_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <div class="title-holder">
+                        <div class="title-holder-cell text-left">
+                            <h1 class="page-title">Chi tiết đơn hàng</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end inner page banner -->
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="col-lg-9 float-left" style="margin-top:30px">
+            <div class="section padding_layout_1 Shopping_cart_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-9 col-md-9">
+                            <div class="product-table">
+                                <table class="table" style="width:900px">
+                                    <thead>
+                                        <tr>
+                                            <th>Tên Sách</th>
+                                            <th>Mã ĐH</th>
+                                            <th>Ngày Đặt</th>
+                                            <th>Số Lượng</th>
+                                            <th class="text-center">Giá</th>
+                                            <th class="text-center">Tổng</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                        <tr>
+                                            <td class="col-sm-8 col-md-6">
+                                                <div class="media">
+                                                    <a class="thumbnail pull-left" href="#"> <img class="media-object cart-img" style="width:50px" src="~/Image/@item.Sach.HinhAnh" width="70" height="60" alt="#"></a>
+                                                    <div class="media-body">
+                                                        <h4 class="media-heading">@item.Sach.TenSach</h4>
+                                                        <span>Product ID: </span><span class="text-success">@item.MaSach</span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="col-sm-1 col-md-1 text-center"><p class="price_table">@item.MaDH</p></td>
+                                            <td class="col-sm-1 col-md-1 text-center"><p class="price_table">@item.DonHang.NgayDat</p></td>
+                                            <td class="col-sm-1 col-md-1 text-center"><p class="price_table">@item.SoLuong</p></td>
+                                            <td class="col-sm-1 col-md-1 text-center"><p class="price_table">@item.Sach.Gia.ToString("#,##0").Replace(',', '.') VNĐ</p></td>
+                                            <td class="col-sm-1 col-md-1 text-center"><p class="price_table">@(item.Sach.Gia * item.SoLuong) VNĐ</p></td>
+                                        </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="shopping-cart-cart">
+                                <table>
+                                    <tbody>
+                                        <tr class="head-table">
+                                            <td><h3>Tổng đơn:</h3></td>
+                                            <td><h3>@ViewBag.total.ToString("#,##0").Replace(',', '.') VNĐ</h3></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,106 @@
+﻿@model IEnumerable<BookStore.Models.DonHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Danh sách Đơn hàng</h2>
+
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.User.HoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SDT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DiaChi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayDat)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.TongTien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LoaiTT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TinhTrangDonHang)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.User.HoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SDT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiaChi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayDat)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.TongTien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LoaiTT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TinhTrangDonHang)
+        </td>
+        @if (item.TinhTrangDonHang == "Đã duyệt")
+        {
+            <td>
+                @Html.ActionLink("Đã giao", "DaGiao", new { id = item.MaDH })
+            </td>
+        }
+        else if (item.TinhTrangDonHang == "Đã hủy")
+        {
+        }
+        else if (item.TinhTrangDonHang == "Đã giao")
+        {
+            <td>
+                <a href="@Url.Action("ChiTietDonHang", "ThanhToan", new {  area = "", id = item.MaDH })">Chi tiết đơn hàng</a>
+            </td>
+        }
+        else
+        {
+            <td>
+                @Html.ActionLink("Duyệt", "Accept", new { id = item.MaDH })
+            </td>
+            <td>
+                @Html.ActionLink("Hủy đơn", "Huy", new { id = item.MaDH })
+            </td>
+
+        }
+    </tr>
+    }
+    <tr>
+
+        @for (int i = 0; i < ViewBag.count; i++)
+        {
+            <a href="@Url.Action("Index", "DonHang", new { begin=i})" class="btn btn-default">@i</a>
+        }
+
+    </tr>
+
+</table>

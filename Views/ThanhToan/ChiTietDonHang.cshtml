@@ -1,0 +1,52 @@
+﻿@model IEnumerable<BookStore.Models.ChiTietDonHang>
+
+@{
+    ViewBag.Title = "ChiTietDonHang";
+    Layout = "~/Views/Shared/_LayoutFreecss.cshtml";
+}
+
+<h2>Chi tiết đơn hàng</h2>
+
+<section id="cart-view">
+    <h3 style="margin-left:200px">Chi tiết đơn hàng</h3>
+    <br />
+
+    <div class="container">
+        <table class="table">
+            <tr>
+                <th style="padding-left: 80px">
+                    Image
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Sach.TenSach)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SoLuong)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TongTien)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="~/Image/@item.Sach.HinhAnh"  width="100" height="100" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Sach.TenSach)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoLuong)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TongTien)
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</section>
